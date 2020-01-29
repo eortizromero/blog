@@ -1,0 +1,12 @@
+body{
+    background: #DDD;
+    color: #343434;
+}
+
+div.container{
+    background: rgba(90, 90, 90, .2);
+    padding: 10px;
+    margin: 0 auto;
+    min-width: 1200px;
+    width: 1200px;
+}
